@@ -1,6 +1,6 @@
 # Sobre Mim
 
-Olá! Sou Júlia Duarte, técnica em Multimídia pelo IFPB e estudante de Ciência da Computação no UNIPÊ. Tenho interesse em Programação, Desenvolvimento de Software, Dados e Inteligência Artificial. Atualmente, estudo HTML, C, lógica, desenvolvimento web e banco de dados, desenvolvendo meus primeiros projetos e aprimorando minhas habilidades em tecnologia.
+-olá! Sou Júlia Duarte, técnica em Multimídia pelo IFPB e estudante de Ciência da Computação no UNIPÊ. Tenho interesse em Programação, Desenvolvimento de Software, Dados e Inteligência Artificial. Atualmente, estudo HTML, C, lógica, desenvolvimento web e banco de dados, desenvolvendo meus primeiros projetos e aprimorando minhas habilidades em tecnologia.
 
 
 ## 🛠 Skills
